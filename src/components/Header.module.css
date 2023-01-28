@@ -1,0 +1,16 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    gap: 5px;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.ignite {
+    display: flex;
+    align-items: center;
+}
